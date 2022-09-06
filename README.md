@@ -1,5 +1,5 @@
 <h1 align="center", style="text-align: center;">Howdy, I'm James 👋😎</h1>
-<p align="center">✨ I enjoy programming and learning about new technologies that I can implement in my projects ✨</p>
+<p align="center">I enjoy programming and learning about new technologies that I can implement in my projects</p>
 
 ## Current Events
 - 📄 Applying to software development jobs 
