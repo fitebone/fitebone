@@ -3,7 +3,7 @@
 
 ## Current Events
 - 📄 Applying to software development jobs 
-- 🖥 Developing a cross-platform application using [libp2p](https://libp2p.io/)
+- 🖥 Developing a hackerman game
 - 📖 Studying reinforcement learning using [Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) and Stanford's online lectures
 
 ## Familiar Technologies
