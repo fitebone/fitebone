@@ -3,8 +3,8 @@
 
 ## Current Events
 - 📄 Applying to software development jobs 
-- 🖥 Developing a hackerman game
-- 📖 Studying reinforcement learning using [Sutton & Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) and Stanford's online lectures
+- 🖥 Developing random side projects
+- 📖 Learning about image processing using libvips
 
 ## Familiar Technologies
 ![](https://raw.githubusercontent.com/fitebone/github-stats/master/generated/languages.svg#gh-dark-mode-only)
